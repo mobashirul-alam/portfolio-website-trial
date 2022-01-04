@@ -37,3 +37,18 @@ a{
     background-image:url(images/top-banner.png);
     background-repeat:no-repeat;
 }
+.half-width-second{
+    width:50%;
+}
+.half-width-second img{
+    width:100%;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 100px;
+}
+.half-width-second p{
+    margin-right: 100px;
+}
